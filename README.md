@@ -23,6 +23,7 @@ Feel free to explore the codebase and documentation. If you have any questions o
 
 Thank you for visiting the Realtor Public Project!
 
+![realestate_stock_pic](https://github.com/slarionne/Realtor_Public_Project/assets/15343933/ed7b8bc7-14cf-4ec2-826a-77b28d90e5d9)
 
 
 
