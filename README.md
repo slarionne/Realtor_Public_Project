@@ -1,3 +1,5 @@
+![realestate_stock_pic](https://github.com/slarionne/Realtor_Public_Project/assets/15343933/ed7b8bc7-14cf-4ec2-826a-77b28d90e5d9)
+
 # Realtor Public Project
 ## Overview
 Welcome to the Realtor Public Project! This repository showcases my work in analyzing real estate data extracted from realtor.com. The primary objective was to leverage data science techniques to gain insights into the real estate market and develop a predictive model for property prices. This project has been made public to demonstrate my skills and contributions in the field.
@@ -22,6 +24,7 @@ To facilitate interactive exploration of the data and showcase model predictions
 Feel free to explore the codebase and documentation. If you have any questions or feedback, please don't hesitate to reach out. This project serves as a testament to my expertise in data analysis, machine learning, and the creation of insightful data visualizations.
 
 Thank you for visiting the Realtor Public Project!
+
 
 
 
